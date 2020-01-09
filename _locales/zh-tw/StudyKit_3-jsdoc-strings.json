@@ -1,0 +1,20 @@
+{
+    
+    "Superbit": "初級傳感積木套件",
+    "Superbit_Module": "鱷魚夾電子模塊",
+    "Superbit.RGB_Program": "使用此方塊替換Neopixel中的strip方塊",
+    "Superbit.Music": "播放音樂",
+    "Superbit.Servo": "控制舵機角度（0°~180°）",
+    "Superbit.Servo2": "控制舵機角度（0°~270°）",
+    "Superbit.Servo3": "控制舵機角度（0°~360°）",
+    "Superbit.MotorRun": "控制單個電機轉動速度（-255~255），正數向前，負數向後",
+    "Superbit.MotorRunDual": "同時控制兩個電機轉動速度（-255~255），正數向前，負數向後",
+    "Superbit.MotorStopAll": "四個電機都停止",
+    "Superbit.StepperDegree": "控制單個步進電機轉動的角度",
+    "Superbit.StepperTurn": "控制單個步進電機轉動的圈數",
+    "Superbit.StepperDual": "同時控制兩個步進電機轉動的角度",
+    "Superbit.PWMOFF": "設置電機和舵機的PWM輸出為零",
+    "Superbit.CarRun": "控制積木小車運動",
+    "Superbit.Handle": "搖桿控制積木小車運動，X和Y取值範圍（-512~512）"
+
+}
