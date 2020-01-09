@@ -6,7 +6,7 @@ Edited By chengengyue
 */
 
 
-//% color="#ECA40D" weight=26 icon="\uf1b2"
+//% color="#ECA40D" weight=27 icon="\uf1b2"
 namespace SuperBit {
 
     const PCA9685_ADD = 0x40
