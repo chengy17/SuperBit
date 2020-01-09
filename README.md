@@ -1,4 +1,4 @@
-# Superbit ![Build status badge](https://github.com//workflows/MakeCode/badge.svg)
+# SuperBit ![Build status badge](https://github.com//workflows/MakeCode/badge.svg)
 
 
 
